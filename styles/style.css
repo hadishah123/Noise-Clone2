@@ -569,10 +569,10 @@ h2 {
   text-decoration: none;
   color: #484848;
   font-size: 27px;
-  transition: 0.3s ease-in;
+  transition: 0.1s ease-in;
 }
 .social-icon .fab {
-  transition: 0.3s ease-in;
+  transition: 0.1s ease-in;
 }
 .social-icon .fa-instagram:hover {
   color: #c13584;
